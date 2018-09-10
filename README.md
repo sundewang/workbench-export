@@ -1,2 +1,5 @@
 # workbench-export
-MySQL workbench 的export to json script
+directly invoke MySQL workbench export to json python script
+
+# usage
+use workbench scripting shell，add User Scripts
